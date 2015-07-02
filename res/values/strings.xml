@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pindah_intent</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ii">Go To II</string>
+    <string name="sparta">This Is Sparta</string>
+    <string name="athena">Go To Athena</string>
+    <string name="spartbtn">Back To Sparta</string>
+    <string name="Athentxt">This Is Athena</string>
+
+</resources>
